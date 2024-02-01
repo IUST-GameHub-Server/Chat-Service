@@ -2,7 +2,7 @@ from .Message import Message
 from ..DataLayer.DataAccess import DataAccess
 
 class ChatLogicHandler:
-    config=''
+    config=""
 
     def get_history(self, string):
         return "Not Implemented"
